@@ -35,6 +35,7 @@ Enterprise Blogs
 + https://www.facebook.com/Engineering
 + https://tech.dropbox.com/
 + http://blog.stackoverflow.com/
++ http://www.intexsoft.com/blog.html
 + http://highscalability.com/
 
 
@@ -50,3 +51,16 @@ Programming Blogs
 + http://codebetter.com/
 + http://www.davidhayden.com/
 + http://pragdave.blogs.pragprog.com/
++ http://www.martinfowler.com/bliki
++ http://codekata.pragprog.com/
++ http://www.haacked.com/
++ http://www.lambda-the-ultimate.org/
++ http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index
++ http://prog21.dadgum.com/
++ http://blog.cwa.me.uk/
++ http://thecomputerstudents.com/programming/
++ http://www.smashingmagazine.com/
++ http://dzone.com/
++ http://norvig.com/
++ http://topblogcoder.wordpress.com/
++ http://ejohn.org/blog/
