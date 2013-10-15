@@ -32,4 +32,21 @@ Enterprise Blogs
 + http://nerds.airbnb.com/
 + http://engineering.chartbeat.com/
 + http://eng.pulse.me/
++ https://www.facebook.com/Engineering
++ https://tech.dropbox.com/
++ http://blog.stackoverflow.com/
 + http://highscalability.com/
+
+
+Programming Blogs
+---------------
+
++ http://www.hanselman.com/blog/
++ http://www.codinghorror.com/blog/
++ http://girldeveloper.com/
++ http://www.joelonsoftware.com/
++ http://dobbscodetalk.com/
++ http://database-programmer.blogspot.com.es/
++ http://codebetter.com/
++ http://www.davidhayden.com/
++ http://pragdave.blogs.pragprog.com/
