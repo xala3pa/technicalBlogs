@@ -64,3 +64,4 @@ Programming Blogs
 + http://norvig.com/
 + http://topblogcoder.wordpress.com/
 + http://ejohn.org/blog/
++ http://burtbeckwith.com/blog/
