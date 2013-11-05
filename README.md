@@ -65,3 +65,4 @@ Programming Blogs
 + http://topblogcoder.wordpress.com/
 + http://ejohn.org/blog/
 + http://burtbeckwith.com/blog/
++ http://alistapart.com/
