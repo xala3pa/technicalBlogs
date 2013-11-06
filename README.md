@@ -37,6 +37,7 @@ Enterprise Blogs
 + http://blog.stackoverflow.com/
 + http://www.intexsoft.com/blog.html
 + http://highscalability.com/
++ http://techblog.badoo.com/
 
 
 Programming Blogs
