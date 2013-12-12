@@ -38,6 +38,7 @@ Enterprise Blogs
 + http://www.intexsoft.com/blog.html
 + http://highscalability.com/
 + http://techblog.badoo.com/
++ http://word.bitly.com/
 
 
 Programming Blogs
