@@ -68,3 +68,10 @@ Programming Blogs
 + http://ejohn.org/blog/
 + http://burtbeckwith.com/blog/
 + http://alistapart.com/
+
+Technical Podcast
+---------------
++ http://hanselminutes.com/
++ http://www.se-radio.net/
++ http://www.jupiterbroadcasting.com/show/coderradio/
++ http://www.javaposse.com/
