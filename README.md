@@ -76,3 +76,5 @@ Technical Podcast
 + http://www.jupiterbroadcasting.com/show/coderradio/
 + http://www.javaposse.com/
 + http://codeontherocks.tumblr.com/
++ http://herdingcode.com/
++ https://pragprog.com/podcasts
