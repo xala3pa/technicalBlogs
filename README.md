@@ -39,6 +39,8 @@ Enterprise Blogs
 + http://highscalability.com/
 + http://techblog.badoo.com/
 + http://word.bitly.com/
++ http://www.carlosble.com/blog/
++ http://codurance.com/blog/
 
 
 Programming Blogs
